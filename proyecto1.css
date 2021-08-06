@@ -1,0 +1,36 @@
+
+body { background-image: url("fondoxbox.jpg") }
+
+
+.conteinerobjetos {
+    border: 1px solid black;
+    padding: 15px;
+    margin-left: 350px;
+    margin-right: 350px;
+    margin-top: 30px;
+    background: rgb(62, 150, 250);
+}
+
+
+
+.cont {
+    border: 1px solid black;
+    padding: 15px;
+    margin-left: 350px;
+    margin-right: 350px;
+    margin-top: 30px;
+    background: rgb(250, 153, 62);
+}
+
+.subcont {
+    width: 45%;
+    text-align: center;
+}
+
+.ejercicioajax {
+    background: white;
+    margin: 3px;
+    width: 80px;
+    display: none;
+    text-align: center;
+}

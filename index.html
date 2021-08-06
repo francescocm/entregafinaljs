@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="proyecto1.css">
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <script src="proyecto1.js"></script>   
+    <title>JS CODERHOUSE</title>
+</head>
+<body>
+    <!-- <button onclick="ajax_get_json();">Mostrar Datos</button> -->
+    <!-- <div id="info"></div> -->
+        <div class="conteinerobjetos">
+    
+        <h1 id="titulo">Bienvenido:</h1>
+        <p id="subtitulo" class="lead">Exclusivo Xbox (próximamente PlayStation y Nintendo)</p>
+        <form id="datosusuario">
+            <input id="gamertag" type="text" placeholder="Ingresa tu Gamertag" class="form-control my-2">
+            <input id="edad" type="text" placeholder="Ingresa tu edad" class="form-control my-2">
+            <button id="miBoton" type="button">Aceptar</button>
+        </form>
+            <table class="table" id="tabla">
+                <thead class="thead-inverse">
+                    <tr>
+                        <th>Gamertag</th>
+                        <th>Edad</th>
+                    </tr>
+                </thead>
+            </table>
+    </div>
+
+    <div class="cont">
+        <h1>Descubre tu calificación como jugador de Pro Clubs</h1>
+        <p class="lead">Valores de 1 a 10 según idoneidad en cada función</p>
+        <p class="lead">1 a 4: Principiante / 4 a 8: Experimentado / 8 a 10: #easymoneysniper</p>
+        <input type="text" id="1nota" class="subcont" placeholder="Atacando">
+        <input type="text" id="2nota" class="subcont" placeholder="Defendiendo"><br><br>
+        <input type="text" id="3nota" class="subcont" placeholder="Generando juego">
+        <input type="text" id="4nota" class="subcont" placeholder="Atajando">
+    </div>
+    <div class="cont">
+        <h2>Resultado</h2>
+        <p class="lead">Clasificaciones: Amateur / Semi-Profesional / Profesional / Clase Mundial / Leyenda</p>
+        <input type="text" id="prom" class="form-control my-2" placeholder="Promedio">
+        <input type="text" id="EQ" class="form-control my-2" placeholder="Tu calidad de Jugador"><br><br>
+        <button id="botonProme" type="button" onclick="calcularProme()">Calcular</button>   
+    </div> 
+
+
+</body>
+</html>

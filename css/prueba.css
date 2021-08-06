@@ -1,0 +1,373 @@
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Ranchers&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap");
+h1, h2, h3, h4 {
+  color: #ff8800;
+  font-size: 30px; }
+
+.titiulosprincipales1 {
+  font-size: 30px; }
+
+.titiulosprincipales2 {
+  font-size: 60px; }
+
+.titiulosprincipales3 {
+  font-size: 90px; }
+
+.titiulosprincipales4 {
+  font-size: 120px; }
+
+.titiulosprincipales5 {
+  font-size: 150px; }
+
+.bordecomun {
+  border-style: double;
+  border-color: #ff8800; }
+
+.probandosass__texto {
+  border-style: double;
+  border-color: #ff8800; }
+
+.tituloprincipal {
+  font-size: 60px;
+  color: white; }
+
+.item0 {
+  margin-top: 10px; }
+
+body {
+  background-image: url("https://i.picsum.photos/id/1058/4608/3072.jpg?hmac=kfHIsJ4T3b-ily0CcdGESnuC4wwOPtnOQpcICheyvFQ");
+  opacity: 100%;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover; }
+
+.opacarfondo {
+  background-color: black;
+  opacity: 80%; }
+
+.bodyredes {
+  background-image: url("https://i.picsum.photos/id/1058/4608/3072.jpg?hmac=kfHIsJ4T3b-ily0CcdGESnuC4wwOPtnOQpcICheyvFQ");
+  opacity: 100%;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover; }
+
+.bodyconvertite {
+  background-image: url("https://www.wallpaperu3.com/wp-content/mywallpapers/football-4k-wallpaper-1280x720.jpeg");
+  opacity: 100%;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover; }
+
+.bodycompeticiones {
+  background-image: url("https://images.unsplash.com/photo-1529900748604-07564a03e7a6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1950&q=80");
+  opacity: 100%;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover; }
+
+.bodycontacto {
+  background-image: url("https://images.unsplash.com/photo-1596524430615-b46475ddff6e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1950&q=80");
+  opacity: 100%;
+  background-repeat: no-repeat;
+  background-attachment: fixed; }
+
+.bodyquienes {
+  background-image: url("https://images.unsplash.com/photo-1475506631979-72412c606f4d?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80");
+  opacity: 100%;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover; }
+
+header, a {
+  font-weight: bold;
+  font-size: 30px;
+  font-family: "Bebas Neue"; }
+
+.item1 {
+  margin-left: 1%; }
+
+.item1 a:hover {
+  display: inline-block;
+  transition: 5s;
+  font-size: 2rem;
+  font-family: "Bebas Neue";
+  text-decoration: none;
+  padding: 10px 15px;
+  background: #ff8800; }
+
+.item1 .img-fluid {
+  padding: 10px; }
+
+.item2 {
+  margin-left: 3%;
+  margin-top: 15%; }
+
+.item2 a:hover, a:visited {
+  transition: 5s;
+  font-size: 2rem;
+  color: white;
+  padding: 10px 15px;
+  text-align: left;
+  text-decoration: none;
+  display: inline-block;
+  background: #ff8800;
+  margin-left: 5%; }
+
+.contiene-video {
+  position: relative;
+  overflow: hidden;
+  width: 70%;
+  height: 70%;
+  margin-left: 15%;
+  margin-top: 3%; }
+
+h1 {
+  font-family: "Bebas Neue";
+  text-align: center;
+  border-style: double;
+  border-color: #ff8800;
+  font-style: normal;
+  font-weight: bold; }
+
+h2 {
+  text-align: center;
+  border-style: double;
+  border-color: #ff8800;
+  font-style: normal;
+  font-weight: bold;
+  font-family: 'Bebas Neue'; }
+
+h3 {
+  text-align: center;
+  border-style: double;
+  border-color: #ff8800;
+  font-style: normal;
+  font-weight: bold;
+  font-family: 'Bebas Neue'; }
+
+h4 {
+  text-align: center;
+  border-style: double;
+  border-color: #ff8800;
+  font-style: normal;
+  font-weight: bold;
+  font-family: 'Bebas Neue'; }
+
+h5 {
+  color: #919191;
+  text-align: center;
+  border-style: double;
+  border-color: #0f3e85;
+  font-style: normal;
+  font-weight: bold;
+  font-family: 'Bebas Neue'; }
+
+h6 {
+  font-size: 35px;
+  color: #dce7f3;
+  text-align: center;
+  margin-top: 3%; }
+
+.item4__titulointerior1 {
+  color: #000;
+  background-color: #f8ca95; }
+
+.item4__titulointerior2 {
+  color: #000;
+  background-color: #f8ca95; }
+
+.item4__titulointerior3 {
+  color: #000;
+  background-color: #f8ca95; }
+
+.item3pagquienes--texto {
+  color: #ffffff;
+  background-image: linear-gradient(to right, rgba(255, 0, 0, 0), #ffa600);
+  font-size: 20px; }
+
+.item3pagcontacto--texto {
+  color: #ffffff;
+  font-size: 35px; }
+
+.textoplantilla {
+  color: #2c5da8; }
+
+.canchagrid__texto {
+  color: #2c5da8; }
+
+.textocontacto {
+  font-size: 35px;
+  color: #ff8800; }
+
+.efa__texto {
+  color: #fff;
+  font-size: 35px;
+  font-family: "Bebas Neue"; }
+
+.item3pagconvertite--texto {
+  margin-bottom: 3%; }
+
+.item5 .derechos p {
+  color: #fff;
+  text-align: right;
+  font-family: "Dancing Script", cursive;
+  font-size: 20px; }
+
+ul li {
+  list-style-type: none;
+  color: #d4cec4;
+  font-style: normal;
+  font-size: medium;
+  font-weight: bold;
+  font-family: 'Bebas Neue'; }
+
+table, th, td {
+  color: #ffffff;
+  font-style: normal;
+  font-weight: normal;
+  font-family: 'Bebas Neue';
+  border: 2px solid #ff8800;
+  text-align: center;
+  font-size: 18px;
+  padding: 2px;
+  margin-left: 1px;
+  margin-right: 1px;
+  margin-top: 2%; }
+
+label {
+  color: #ffffff;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 35px;
+  font-family: "Dancing Script", cursive; }
+
+tr:hover
+.item3pagconvertite--boton {
+  background-color: #0077ff; }
+
+.item3__interno--boton {
+  margin-top: 2%;
+  margin-left: 39%;
+  align-items: center;
+  background-color: #ff8800;
+  color: #fff; }
+
+.item3pagsocial__flex-container {
+  height: auto;
+  width: auto;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  flex-flow: column;
+  justify-content: space-between;
+  align-items: center;
+  align-content: flex-start;
+  order: initial; }
+
+.grid {
+  display: grid;
+  grid-template-rows: auto auto;
+  grid-template-columns: auto auto auto auto;
+  background-image: linear-gradient(to top #ff8800, #fff);
+  grid-area: auto;
+  border: 5px solid #ff8800;
+  border-style: double;
+  width: 100%;
+  margin: auto;
+  text-align: center; }
+
+.item4 {
+  display: grid;
+  align-items: center;
+  margin-right: 10px; }
+
+.item5 {
+  margin-top: 10px;
+  margin-left: 10px;
+  margin-right: 10px; }
+
+.item3pagsocial__linkyou:hover a:link, a:visited {
+  transition: 3s;
+  font-size: 3rem;
+  background-color: #ff8800;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block; }
+
+.item3pagsocial__linktwitter:hover a:link, a:visited {
+  transition: 3s;
+  font-size: 3rem;
+  background-color: #ff8800;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block; }
+
+.item3pagsocial__linktwitch:hover a:link, a:visited {
+  transition: 3s;
+  font-size: 3rem;
+  background-color: #ff8800;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block; }
+
+.redes {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box; }
+
+.item5 {
+  margin-top: 10px;
+  margin-left: 10px;
+  margin-right: 10px; }
+
+.item5 .redes {
+  left: 0;
+  margin: 1%;
+  padding: 0; }
+
+.item5 .redes ul {
+  list-style: none; }
+
+.item5 .redes ul li a {
+  display: inline-block;
+  color: #fff;
+  background: #000;
+  padding: 10px 15px;
+  text-decoration: none; }
+
+.item5 .redes ul li .icon-twitter {
+  background: #00abf0;
+  margin-left: 3%; }
+
+.item5 .redes ul li .icon-youtube {
+  background: #ae181f;
+  margin-left: 3%; }
+
+.item5 .redes ul li .icon-twitch {
+  background: #ac93d1;
+  margin-left: 3%; }
+
+.item5 .redes ul li a:hover {
+  padding: 10px 30px; }
+
+.item3 .item3pagcontacto__contenedor a {
+  display: inline-block;
+  color: #fff;
+  background: #000;
+  padding: 10px 15px;
+  text-decoration: none; }
+
+.item3 .item3pagcontacto__contenedor a:hover {
+  padding: 10px 30px; }
+
+.item3 .item3pagcontacto__contenedor .icon-location {
+  background: #ae181f; }
